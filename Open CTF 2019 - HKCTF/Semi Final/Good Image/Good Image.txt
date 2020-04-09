@@ -1,0 +1,7 @@
+A file named "CTFOpen2019.png" is given
+
+Simply put it into winhex
+
+Use hotkey Ctrl + F and search "HKCTF"
+
+Flag: HKCTF{Open2019_b07209aJ}
