@@ -1,0 +1,5 @@
+Open the asknicely with IDA
+
+Check function flag
+
+Flag: DawgCTF{+h@nK_Y0U}
