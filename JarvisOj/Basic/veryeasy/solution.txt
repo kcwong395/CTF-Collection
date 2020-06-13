@@ -1,0 +1,3 @@
+open the given file using hex editor or using the command "cat"
+
+Flag: PCTF{strings_i5_3asy_isnt_i7}
