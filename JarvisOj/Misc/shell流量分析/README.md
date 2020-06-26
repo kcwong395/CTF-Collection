@@ -1,3 +1,7 @@
+# shell流量分析
+
+![](Capture.PNG)
+
 unzip the file +_+.rar.977e2c637dc492fb9a7cf7595c852044
 
 in the unzip folder, a pcanpng file is found
