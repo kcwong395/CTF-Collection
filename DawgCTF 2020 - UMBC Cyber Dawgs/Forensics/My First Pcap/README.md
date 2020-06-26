@@ -1,6 +1,6 @@
 # My First Pcap
 
-![](Given/Description.png)
+![](Given/Description.PNG)
 
 Follow TCP Stream (tcp.stream eq 0)
 
