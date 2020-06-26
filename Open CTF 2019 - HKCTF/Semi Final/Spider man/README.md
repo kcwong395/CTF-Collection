@@ -1,3 +1,5 @@
+# Spider Man
+
 Given:
 
 Where the spider can't access, where the answer is.
@@ -18,9 +20,13 @@ Putting it into winhex, we can observe that it has a png header
 
 Convert the extension into png
 
+![](robots.png)
+
 After observing the png, it seems to be related to npiet
 
 Using the npiet online: https://www.bertnase.de/npiet/npiet-execute.php to execute the image
+
+![](flag.PNG)
 
 A flag can be seen: HKCTF{Npi3t_Ez_23j2n#S}
 

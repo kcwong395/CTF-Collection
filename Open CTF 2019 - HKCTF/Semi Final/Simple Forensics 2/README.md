@@ -1,7 +1,11 @@
+# Simple Forensics 2
+
 A file named "file" is given
 
 Simply put it into winhex
 
 Use hotkey Ctrl + F and search "HKCTF"
 
-Flag: HKCTF{grep_and_you_will_find_me}
+![](flag.PNG)
+
+Flag: HKCTF{sTrIngS_sAVeS_Time_4c987dcwxq}
