@@ -1,6 +1,6 @@
 # Beginner 4
 
-![](given.png)
+![](given.PNG)
 
 caesar cipher key = 13
 
