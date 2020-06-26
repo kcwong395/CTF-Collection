@@ -1,3 +1,7 @@
+# -.-字符串
+
+![](Capture.PNG)
+
 ..-. .-.. .- --. ..... ..--- ..--- ----- .---- ---.. -.. -.... -.... ..... ...-- ---.. --... -.. .---- -.. .- ----. ...-- .---- ---.. .---- ..--- -... --... --... --... -.... ...-- ....- .---- -----
 
 the ciphertext is encoded with morse code, translating it will receive the following result
