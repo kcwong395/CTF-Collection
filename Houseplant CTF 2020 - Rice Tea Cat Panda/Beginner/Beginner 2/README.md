@@ -1,6 +1,6 @@
 # Beginner 2
 
-![](given.png)
+![](given.PNG)
 
 hex to ascii
 
