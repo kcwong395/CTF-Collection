@@ -1,6 +1,6 @@
 # Let Her Eat Cake
 
-![](Given/Description.png)
+![](Given/Description.PNG)
 
 Try to bruteforce this problem with known plaintext "DawgCTF"
 
