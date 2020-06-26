@@ -1,5 +1,5 @@
 # Discord Flag
 
-![](Capture.png)
+![](Capture.PNG)
 
 flag{good_luck_have_fun}
