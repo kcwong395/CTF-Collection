@@ -1,6 +1,6 @@
 # Another Pcap
 
-![](Given/Description.png)
+![](Given/Description.PNG)
 
 Open the pcap file
 
