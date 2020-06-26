@@ -1,6 +1,6 @@
 # Free Wi-Fi Part 1
 
-![](Given/Description.png)
+![](Given/Description.PNG)
 
 Follow TCP Stream (tcp.stream eq 9)
 
