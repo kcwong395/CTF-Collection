@@ -1,6 +1,6 @@
 # The Lady is a Smuggler
 
-![](Given/Description.png)
+![](Given/Description.PNG)
 
 View page source
 
