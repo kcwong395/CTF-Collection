@@ -1,5 +1,5 @@
 # Sanity Check
 
-![](Description.png)
+![](Description.PNG)
 
 Flag: DawgCTF{fr33_fl@gs}
