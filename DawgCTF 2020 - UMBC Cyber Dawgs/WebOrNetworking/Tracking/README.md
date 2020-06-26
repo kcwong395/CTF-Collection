@@ -1,6 +1,6 @@
 # Tracking
 
-![](Given/Description.png)
+![](Given/Description.PNG)
 
 View page source
 
