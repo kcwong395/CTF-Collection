@@ -1,6 +1,6 @@
 # On Lockdown
 
-![](Given/Description.png)
+![](Given/Description.PNG)
 
 Type something long
 
