@@ -1,1 +1,0 @@
-Flag: DawgCTF{fr33_fl@gs}
